@@ -13,3 +13,5 @@ print(multiply(2,3))
 print(add)
 print(multiply)
 # it shows just lambda itself
+
+
