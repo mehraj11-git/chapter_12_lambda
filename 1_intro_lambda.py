@@ -1,6 +1,6 @@
 # lambda expression ---> (anonymous function)
 # lambda expression is a func ,and it does not have a name
-# we are assign this lamda func in variable but we should not do that this for the practice thats why we ad this in variable
+# we are assign this lamda func in variable but we should not do that this .for practice thats why we add this in variable
 # actualaly we use lambda expression with built in,map,reduce,filter func
 
 add = lambda a,b : a+b
